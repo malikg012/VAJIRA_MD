@@ -7,14 +7,14 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "VAJIRA-MD=LJECzADb#MbZ_9l4B5tbuFLc7mO4NJCzMPN6Klkt4BCPbQ27xZcc",
+            "description": "VAJIRA-MD=KBcHWJrA#hKw73HghxHgR_Rrrgjrjevng9p_Y7tVTSSOraVXmh1k",
             "required": true,
-            "value": "VAJIRA-MD=LJECzADb#MbZ_9l4B5tbuFLc7mO4NJCzMPN6Klkt4BCPbQ27xZcc"
+            "value": "VAJIRA-MD=KBcHWJrA#hKw73HghxHgR_Rrrgjrjevng9p_Y7tVTSSOraVXmh1k"
         },
     "OWNER_NUMBER": {
-            "description": "Type Your Number Here",
+            "description": "923046316500",
             "required": true,
-            "value": ""
+            "value": "923046316500"
         }
     },
          "buildpacks": [
